@@ -117,6 +117,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [ws](https://github.com/websockets/ws) library for WebSocket support.
 
-- [ws](https://github.com/websockets/ws) library for WebSocket support.
+- [@NonoMartinezAlonso](https://www.youtube.com/@NonoMartinezAlonso) Martinez Alonso YouTube.
 
 ---
